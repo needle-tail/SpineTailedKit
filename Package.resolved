@@ -1,0 +1,104 @@
+{
+  "pins" : [
+    {
+      "identity" : "bson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orlandos-nl/BSON.git",
+      "state" : {
+        "revision" : "98a2c90988895f1b985ed0066180995df995924c",
+        "version" : "7.0.28"
+      }
+    },
+    {
+      "identity" : "cyphertextkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orlandos-nl/CypherTextKit.git",
+      "state" : {
+        "branch" : "feature/async-await",
+        "revision" : "d0cb0341ab7bc7bdd5e5bdb25d91a948a5534c3b"
+      }
+    },
+    {
+      "identity" : "dribble",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/orlandos-nl/Dribble.git",
+      "state" : {
+        "revision" : "afbfa0a83bd41880820b8883a765fd0d310eabfd",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "jwt-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/jwt-kit.git",
+      "state" : {
+        "revision" : "5f9c44d4c196cc06c3fc601f279169f121d6f62d",
+        "version" : "4.4.0"
+      }
+    },
+    {
+      "identity" : "swift-crypto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-crypto.git",
+      "state" : {
+        "revision" : "ddb07e896a2a8af79512543b1c7eb9797f8898a5",
+        "version" : "1.1.7"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+        "version" : "1.4.2"
+      }
+    },
+    {
+      "identity" : "swift-nio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio.git",
+      "state" : {
+        "revision" : "d6e3762e0a5f7ede652559f53623baf11006e17c",
+        "version" : "2.39.0"
+      }
+    },
+    {
+      "identity" : "swift-nio-ssl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio-ssl.git",
+      "state" : {
+        "revision" : "b5260a31c2a72a89fa684f5efb3054d8725a2316",
+        "version" : "2.18.0"
+      }
+    },
+    {
+      "identity" : "swift-nio-transport-services",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Cartisim/swift-nio-transport-services.git",
+      "state" : {
+        "branch" : "udp-support-nio-latest",
+        "revision" : "f80c310444d550f6f0db9d01bafb624a24fe8b4c"
+      }
+    },
+    {
+      "identity" : "taskqueue",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Joannis/TaskQueue.git",
+      "state" : {
+        "revision" : "38df6560a3ce185e0954ec2851b01ee82c01ee2c",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "websocket-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/websocket-kit.git",
+      "state" : {
+        "revision" : "e32033ad3c68ebec1b761bc961be7bd56bad02f8",
+        "version" : "2.3.1"
+      }
+    }
+  ],
+  "version" : 2
+}
